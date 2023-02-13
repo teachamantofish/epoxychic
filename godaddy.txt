@@ -1,0 +1,19 @@
+107.180.56.173
+kmjq0bkoasdc
+Melvi11#
+root dir: public_html
+
+discount domain club?
+
+wait for removal of epoxy on old
+go to cpanel
+click change: selecct epoxychic
+
+to set up ssl
+on cpanel > cpanel admin button
+addon domains > 
+eg.: tokemon.com
+
+so new ftp root dir: public_html/tokemon.com
+public_html/traversecitykitchen.com
+
